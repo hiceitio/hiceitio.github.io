@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hiceitio.github.io/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/app/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/assets/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/css/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/data/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/includes/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/item/sitemap.hiceitio.gz
+Sitemap: https://hiceitio.github.io/src/sitemap.hiceitio.gz
